@@ -1,6 +1,0 @@
-flask
-flask_wtf
-opencv-python
-cvzone
-mediapipe
-uwsgi
