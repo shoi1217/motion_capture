@@ -1,8 +1,8 @@
 # motion_capture
 
 <div align="center">
-    <img src=".github/img01.png" height="300">
-    <img src=".github/img02.png" height="300">
+    <img src="_github/img01.png" height="300">
+    <img src="_github/img02.png" height="300">
 </div>
 
 ## 使用方法
@@ -10,7 +10,7 @@
 1. http://52.195.205.99 にアクセスします。
 2. ブラウザに動画をアップロードします。
    - 「.sample_videos」の動画をお使いください。
-   - [[Downloads]](.sample_videos/video1.mp4)
+   - [[Downloads]](_sample_videos/video1.mp4)
 3. リアルタイムに姿勢推定の結果を表示するには「バウンディングボックスを表示」をクリックしてください。
 4. CSV形式のモーションデータをダウンロードするには「モーションをダウンロード」をクリックしてください。
 
