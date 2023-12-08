@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>モーションキャプチャ</title>
+</head>
+<body>
+    <form method="POST" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        <div>
+            {{ form.video.label }}<br>
+            {{ form.video(class="form-control-file") }}
+        </div>
+        <div>
+            <input type="submit" class="btn btn-primary" name="video_feed" value="バウンディングボックスを表示">
+        </div>
+        <div>
+            <input type="submit" class="btn btn-primary" name="motion_capture" value="モーションをダウンロード">
+        </div>
+    </form>
+</body>
+</html>
