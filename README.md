@@ -1,4 +1,4 @@
-# MotionCapture
+# Motion Capture
 
 <div align="center">
     <img src="_github/img01.png" height="300">
