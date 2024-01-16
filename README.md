@@ -10,7 +10,7 @@
 
 1. http://39.110.68.170:8080/ にアクセスします。
 2. ブラウザに動画をアップロードします。
-   - [_sample_videos](https://github.com/shoi1217/MotionCapture/blob/main/_github/sample_video.mp4) の動画をお使いください。
+   - お手元に動画無い場合は[sample_video](https://github.com/shoi1217/MotionCapture/blob/main/_github/sample_video.mp4) をダウンロードしてお使いください。
 3. リアルタイムに姿勢推定の結果を表示するには「バウンディングボックスを表示」をクリックしてください。
 4. CSV形式のモーションデータをダウンロードするには「モーションをダウンロード」をクリックしてください。
 
