@@ -1,4 +1,4 @@
-# motion_capture
+# MotionCapture
 
 <div align="center">
     <img src="_github/img01.png" height="300">
@@ -10,7 +10,7 @@
 
 1. http://39.110.68.170:8080/ にアクセスします。
 2. ブラウザに動画をアップロードします。
-   - [_sample_videos](_sample_videos/) の動画をお使いください。
+   - [_sample_videos](https://github.com/shoi1217/MotionCapture/blob/main/_github/sample_video.mp4) の動画をお使いください。
 3. リアルタイムに姿勢推定の結果を表示するには「バウンディングボックスを表示」をクリックしてください。
 4. CSV形式のモーションデータをダウンロードするには「モーションをダウンロード」をクリックしてください。
 
